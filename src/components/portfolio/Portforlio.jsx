@@ -16,6 +16,50 @@ const Portfolio = () => {
       <div className="container portfolio_container">
         <article className="portfolio_item">
           <div className="portfolio_item-image">
+            <img src={IMG5} alt="" />
+          </div>
+          <h3>Automated Expense Claim Manegement System</h3>
+          <div className="portfolio_item-cta">
+            <a
+              href="https://github.com/gayanath97/group_project_backend"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/gayanath97/group_project_frontend"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG4} alt="" />
+          </div>
+          <h3>Reward System</h3>
+          <div className="portfolio_item-cta">
+            <a
+              href="https://github.com/gayanath97/Springboot-hooks-fullstack"
+              className="btn"
+              target="_blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://github.com/gayanath97/Springboot-hooks-fullstack"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
           <h3>Springboot-hooks-fullstack</h3>
