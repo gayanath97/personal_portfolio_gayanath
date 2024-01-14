@@ -183,7 +183,7 @@ const Experience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>Container Orchestration (Kubernetes)</h4>
+                <h4>Container Orchestration(Kubernetes)</h4>
                 {/* <small className="text-light">Intermediate</small> */}
               </div>
             </article>
@@ -191,7 +191,7 @@ const Experience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>Infrastruture as a service (Terraform)</h4>
+                <h4>Infrastruture as a service(Terraform)</h4>
                 {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
@@ -199,7 +199,7 @@ const Experience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>Configuration management tool (Ansible)</h4>
+                <h4>Configuration management tool(Ansible)</h4>
                 {/* <small className="text-light">Intermediate</small> */}
               </div>
             </article>
